@@ -1,4 +1,6 @@
-### Hi there 👋
+#### Hi there, welcome to Maissa Adi GitHub profile👋
+
+Hello, I'm a Ph.D. student working on modelling and simulation using Density Functional Theory (DFT).
 
 <!--
 **Maissa-Adi/Maissa-Adi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
